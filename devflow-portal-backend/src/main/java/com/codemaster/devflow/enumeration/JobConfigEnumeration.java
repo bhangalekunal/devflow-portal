@@ -1,8 +1,8 @@
 package com.codemaster.devflow.enumeration;
 
 
-import com.codemaster.devflow.job.PasswordChangeReminderJob;
-import com.codemaster.devflow.job.BirthdayWishJob;
+import com.codemaster.devflow.quartz.job.PasswordChangeReminderJob;
+import com.codemaster.devflow.quartz.job.BirthdayWishJob;
 
 import org.quartz.Job;
 
